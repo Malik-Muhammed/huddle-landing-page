@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Malik-Muhammed/huddle-landing-page.git)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://malik-muhammed.github.io/huddle-landing-page/)
 
 ## My process
 
